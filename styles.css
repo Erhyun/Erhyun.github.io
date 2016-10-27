@@ -6,5 +6,6 @@ h1 {
 }
 #sites{
   float: right;
-  border-style: rounded;
+  border: 2px solid black;
+  border-radius: 5px;
 }
