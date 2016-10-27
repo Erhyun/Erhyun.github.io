@@ -1,2 +1,7 @@
-body { background-color: linen;}
-h1 { color: maroon;}
+body { 
+  background-color: linen;
+  float: right;
+}
+h1 { 
+  color: maroon;
+}
